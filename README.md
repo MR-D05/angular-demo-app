@@ -1,4 +1,5 @@
 # AngularDemoApp
+This project is an exposé of all that Angular has to offer, demonstrating an intimate understanding of everything from services and dependency injection, component interaction, form handling, databinding, routing, observables, RxJS higher order observables, pipes, http requests, authentication and route protection, and also covers Angular deployment strategies.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
