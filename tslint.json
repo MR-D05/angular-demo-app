@@ -28,7 +28,9 @@
       "app",
       "kebab-case"
     ],
+    "emitDecoratorMetadata": true,
     "eofline": true,
+    "experimentalDecorators": true,
     "import-blacklist": [
       true,
       "rxjs/Rx"
